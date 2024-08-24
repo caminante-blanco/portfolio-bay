@@ -3,8 +3,8 @@
 
 title: Walker White
 description: >- # this means to ignore newlines until "baseurl:"
-A portfolio of my academic and professional work.
-baseurl: "/bay" # the subpath of the site
+  A portfolio of my academic and professional work.
+baseurl: "/" # the subpath of the site
 url: "https://walkercwhite.com" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
