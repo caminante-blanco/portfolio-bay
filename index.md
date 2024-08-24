@@ -6,9 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+    Hello! I am a undergraduate linguistics student at the University of Arizona, a vim enthusiast, and an Arch linux user, btw.
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+    If you wanna learn more about me or see some of the things I've done, check around this site!
 </p>
